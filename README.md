@@ -5,7 +5,7 @@
 <br><br>
 
 [![Seguidores](https://img.shields.io/github/followers/jotalts?label=Seguidores&style=for-the-badge&color=7aa2f7&labelColor=1a1b26&logo=github&logoColor=white)](https://github.com/jotalts?tab=followers)
-[![E-mail](https://img.shields.io/badge/E--mail-jonatasprofissional.ps%40@gmail.com-e0af68?style=for-the-badge&labelColor=1a1b26&logo=gmail&logoColor=white)](mailto:jonatasprofissional.ps@gmail.com)
+[![E-mail](https://img.shields.io/badge/E--mail-jonatasprofissional.ps@gmail.com-e0af68?style=for-the-badge&labelColor=1a1b26&logo=gmail&logoColor=white)](mailto:jonatasprofissional.ps@gmail.com)
 
 </div>
 
