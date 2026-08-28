@@ -104,6 +104,6 @@ Backend of my capstone project: a classroom management system with **gamificatio
 
 ### 📫 Vamos conversar?
 
-[![E-mail](https://img.shields.io/badge/Me%20mande%20um%20e--mail-e0af68?style=for-the-badge&labelColor=1a1b26&logo=gmail&logoColor=white)](mailto:jonatasestudos07@gmail.com)
+[![E-mail](https://img.shields.io/badge/Me%20mande%20um%20e--mail-e0af68?style=for-the-badge&labelColor=1a1b26&logo=gmail&logoColor=white)](mailto:jonatasprofissional.ps@gmail.com)
 
 </div>
