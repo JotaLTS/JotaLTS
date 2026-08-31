@@ -13,7 +13,7 @@
 
 ## 👋 Sobre mim
 
-Analista e Desenvolvedor de Sistemas em formação (Estácio), **desenvolvedor Backend**.
+Analista e Desenvolvedor de Sistemas em formação (Estácio), **se tornando um desenvolvedor Backend**.
 
 No trabalho, administro servidores Linux self-hosted e containers — o que me deu uma boa noção de como uma aplicação se comporta em produção. Agora estou trazendo essa bagagem para o outro lado: escrever a aplicação. Hoje isso significa Java, Spring Boot e bancos relacionais.
 
