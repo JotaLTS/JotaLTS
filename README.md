@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./terminal.svg" alt="Terminal animado: jonatas pereira, desenvolvedor backend em formação. Stack: java, spring boot, postgresql, maven, git, linux." width="780" />
+<img src="./terminal.svg" alt="Terminal animado: jonatas pereira, desenvolvedor backend. Stack: java, spring boot, postgresql, maven, git, linux." width="780" />
 
 <br><br>
 
@@ -13,18 +13,18 @@
 
 ## 👋 Sobre mim
 
-Analista e Desenvolvedor de Sistemas em formação (Estácio), **se tornando um desenvolvedor Backend**.
+Estudante de Análise e Desenvolvimento de Sistemas na Estácio, focado em **desenvolvimento backend com Java e Spring Boot**.
 
-No trabalho, administro servidores Linux self-hosted e containers — o que me deu uma boa noção de como uma aplicação se comporta em produção. Agora estou trazendo essa bagagem para o outro lado: escrever a aplicação. Hoje isso significa Java, Spring Boot e bancos relacionais.
+Venho da infraestrutura — administro servidores Linux self-hosted e containers — e trago essa vivência de produção para o código que escrevo. Depois de sustentar aplicações rodando, quis escrever as minhas.
 
 <details>
 <summary><b>🇺🇸 Read in English</b></summary>
 
 <br>
 
-Systems Analysis & Development student (Estácio), transitioning from **IT/Infrastructure into Backend Development**.
+Systems Analysis & Development student at Estácio, focused on **backend development with Java and Spring Boot**.
 
-At work I manage self-hosted Linux servers and containers, which gave me a solid feel for how an application behaves in production. Now I'm bringing that background to the other side: writing the application. Today that means Java, Spring Boot and relational databases.
+I come from infrastructure — I manage self-hosted Linux servers and containers — and I bring that production experience into the code I write. After keeping applications running, I wanted to write my own.
 
 </details>
 
